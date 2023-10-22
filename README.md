@@ -1,1 +1,1 @@
-# Frontend_design_amazon_clone
+# Frontend_design of Amazon website
